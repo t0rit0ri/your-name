@@ -1,0 +1,36 @@
+/* 固定 */
+.TopNavigation{
+  height: 70px;
+  text-align: center;
+  color: #fff; 
+} 
+.container{
+  background:#00FFFF;
+  display:flex;
+  justify-content: space-around;
+  height:70px;
+  align-items: center;
+}
+.item{
+  color: #000000;
+  font-size:25px;
+}
+.content{
+  flex: 1;
+  text-align: center;
+  margin-top: 10px;
+}
+footer{
+  background:#FFFF00;
+  text-align:center;
+
+}
+/* 固定 */
+.logo{
+  text-align: center;
+}
+.mainInner{
+  max-width: 650px;
+  margin: auto;
+  padding: 0 20px;
+}
